@@ -1,1 +1,46 @@
-l
+h1 {
+	color: #F18F01;
+	text-align: center;
+	font-family:'Gloria Hallelujah';
+}
+
+
+h2 {
+	color: #F18F01;
+	text-align: center;
+	font-family:'Gloria Hallelujah';
+}
+h3{
+	color: #F18F01;
+	text-align: center;
+	font-family:'Gloria Hallelujah';
+}
+
+
+p {
+	color:#F18F01;
+	text-align: center;
+	font-family:'Gloria Hallelujah', sans-serif;
+	border: 10px solid #12355B;
+}
+
+ body {
+ 	background-color: #3F7CAC;
+ 	color: #3F7CAC;
+ }
+ 
+#first {
+	text-align: center;
+}
+#first img {
+	margin: 0 auto;
+}
+ul{
+	width: 30%;
+	margin: 0 auto;
+}
+li{
+	color: #F18F01;
+	text-align: left;
+	font-family:'Gloria Hallelujah';
+}
